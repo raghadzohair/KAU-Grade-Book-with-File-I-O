@@ -1,0 +1,246 @@
+Welcome to the KAU Grade Book.
+
+Command: DISPLAYSTATS
+Statistical Results of CPCS-204 (Instructor: Muhammad Umair):
+     Total number of student records: 0
+     Average Score: 0.00
+     Highest Score: 0.00
+     Lowest Score:  0.00
+     Total 'A' Grades: 0 (0.00% of class)
+     Total 'B' Grades: 0 (0.00% of class)
+     Total 'C' Grades: 0 (0.00% of class)
+     Total 'D' Grades: 0 (0.00% of class)
+     Total 'F' Grades: 0 (0.00% of class)
+
+Command: DISPLAYSTUDENTS
+   ERROR: there are no students currently in the system.
+
+Command: SEARCHBYID
+ERROR: there is no record for student ID # 777.
+
+Command: SEARCHBYNAME
+ERROR: there is no record for student "Ali AlZahrani".
+
+Command: ADDRECORD
+Faisal Ashihiri (ID# 111) has been added to the KAU Grade Book.
+   His final grade is  88.20 (B)
+
+Command: SEARCHBYNAME
+Student Record for Faisal Ashihiri (ID # 111):
+     Exam1:        80
+     Exam2:        82
+     Final Exam:   99
+     Final Grade:  88.20
+     Letter Grade: B
+
+Command: SEARCHBYID
+Student Record for Faisal Ashihiri (ID # 111):
+     Exam1:        80
+     Exam2:        82
+     Final Exam:   99
+     Final Grade:  88.20
+     Letter Grade: B
+
+Command: DISPLAYSTATS
+Statistical Results of CPCS-204 (Instructor: Muhammad Umair):
+     Total number of student records: 1
+     Average Score: 88.00
+     Highest Score: 88.20
+     Lowest Score:  88.20
+     Total 'A' Grades: 0 (0.00% of class)
+     Total 'B' Grades: 1 (100.00% of class)
+     Total 'C' Grades: 0 (0.00% of class)
+     Total 'D' Grades: 0 (0.00% of class)
+     Total 'F' Grades: 0 (0.00% of class)
+
+Command: DISPLAYSTUDENTS
+***Class Roster and Grade Sheet***
+
+ - Student Record for Faisal Ashihiri (ID # 111):
+     Exam1:        80
+     Exam2:        82
+     Final Exam:   99
+     Final Grade:  88.20
+     Letter Grade: B
+
+Command: ADDRECORD
+Bilal AlJifri (ID# 871) has been added to the KAU Grade Book.
+   His final grade is  55.60 (F)
+
+Command: ADDRECORD
+Abdurrahman Batawi (ID# 253) has been added to the KAU Grade Book.
+   His final grade is  87.20 (B)
+
+Command: DISPLAYSTATS
+Statistical Results of CPCS-204 (Instructor: Muhammad Umair):
+     Total number of student records: 3
+     Average Score: 76.00
+     Highest Score: 88.20
+     Lowest Score:  55.60
+     Total 'A' Grades: 0 (0.00% of class)
+     Total 'B' Grades: 2 (66.00% of class)
+     Total 'C' Grades: 0 (0.00% of class)
+     Total 'D' Grades: 0 (0.00% of class)
+     Total 'F' Grades: 1 (33.00% of class)
+
+Command: SEARCHBYID
+Student Record for Bilal AlJifri (ID # 871):
+     Exam1:        27
+     Exam2:        57
+     Final Exam:   76
+     Final Grade:  55.60
+     Letter Grade: F
+
+Command: SEARCHBYNAME
+Student Record for Bilal AlJifri (ID # 871):
+     Exam1:        27
+     Exam2:        57
+     Final Exam:   76
+     Final Grade:  55.60
+     Letter Grade: F
+
+Command: DISPLAYSTUDENTS
+***Class Roster and Grade Sheet***
+
+ - Student Record for Faisal Ashihiri (ID # 111):
+     Exam1:        80
+     Exam2:        82
+     Final Exam:   99
+     Final Grade:  88.20
+     Letter Grade: B
+ - Student Record for Abdurrahman Batawi (ID # 253):
+     Exam1:        84
+     Exam2:        96
+     Final Exam:   83
+     Final Grade:  87.20
+     Letter Grade: B
+ - Student Record for Bilal AlJifri (ID # 871):
+     Exam1:        27
+     Exam2:        57
+     Final Exam:   76
+     Final Grade:  55.60
+     Letter Grade: F
+
+Command: ADDRECORD
+LazyStudent WhoPlaysALot (ID# 666) has been added to the KAU Grade Book.
+   His final grade is  20.30 (F)
+
+Command: DISPLAYSTUDENTS
+***Class Roster and Grade Sheet***
+
+ - Student Record for Faisal Ashihiri (ID # 111):
+     Exam1:        80
+     Exam2:        82
+     Final Exam:   99
+     Final Grade:  88.20
+     Letter Grade: B
+ - Student Record for Abdurrahman Batawi (ID # 253):
+     Exam1:        84
+     Exam2:        96
+     Final Exam:   83
+     Final Grade:  87.20
+     Letter Grade: B
+ - Student Record for LazyStudent WhoPlaysALot (ID # 666):
+     Exam1:        25
+     Exam2:        20
+     Final Exam:   17
+     Final Grade:  20.30
+     Letter Grade: F
+ - Student Record for Bilal AlJifri (ID # 871):
+     Exam1:        27
+     Exam2:        57
+     Final Exam:   76
+     Final Grade:  55.60
+     Letter Grade: F
+
+Command: DISPLAYSTATS
+Statistical Results of CPCS-204 (Instructor: Muhammad Umair):
+     Total number of student records: 4
+     Average Score: 62.00
+     Highest Score: 88.20
+     Lowest Score:  20.30
+     Total 'A' Grades: 0 (0.00% of class)
+     Total 'B' Grades: 2 (50.00% of class)
+     Total 'C' Grades: 0 (0.00% of class)
+     Total 'D' Grades: 0 (0.00% of class)
+     Total 'F' Grades: 2 (50.00% of class)
+
+Command: ADDRECORD
+GoodStudent WhoWorksHard (ID# 888) has been added to the KAU Grade Book.
+   His final grade is  100.00 (A)
+
+Command: SEARCHBYNAME
+Student Record for LazyStudent WhoPlaysALot (ID # 666):
+     Exam1:        25
+     Exam2:        20
+     Final Exam:   17
+     Final Grade:  20.30
+     Letter Grade: F
+
+Command: SEARCHBYNAME
+Student Record for GoodStudent WhoWorksHard (ID # 888):
+     Exam1:        100
+     Exam2:        100
+     Final Exam:   100
+     Final Grade:  100.00
+     Letter Grade: A
+
+Command: SEARCHBYID
+ERROR: there is no record for student ID # 777.
+
+Command: SEARCHBYID
+Student Record for GoodStudent WhoWorksHard (ID # 888):
+     Exam1:        100
+     Exam2:        100
+     Final Exam:   100
+     Final Grade:  100.00
+     Letter Grade: A
+
+Command: DISPLAYSTATS
+Statistical Results of CPCS-204 (Instructor: Muhammad Umair):
+     Total number of student records: 5
+     Average Score: 70.00
+     Highest Score: 100.00
+     Lowest Score:  20.30
+     Total 'A' Grades: 1 (20.00% of class)
+     Total 'B' Grades: 2 (40.00% of class)
+     Total 'C' Grades: 0 (0.00% of class)
+     Total 'D' Grades: 0 (0.00% of class)
+     Total 'F' Grades: 2 (40.00% of class)
+
+Command: DISPLAYSTUDENTS
+***Class Roster and Grade Sheet***
+
+ - Student Record for Faisal Ashihiri (ID # 111):
+     Exam1:        80
+     Exam2:        82
+     Final Exam:   99
+     Final Grade:  88.20
+     Letter Grade: B
+ - Student Record for Abdurrahman Batawi (ID # 253):
+     Exam1:        84
+     Exam2:        96
+     Final Exam:   83
+     Final Grade:  87.20
+     Letter Grade: B
+ - Student Record for LazyStudent WhoPlaysALot (ID # 666):
+     Exam1:        25
+     Exam2:        20
+     Final Exam:   17
+     Final Grade:  20.30
+     Letter Grade: F
+ - Student Record for Bilal AlJifri (ID # 871):
+     Exam1:        27
+     Exam2:        57
+     Final Exam:   76
+     Final Grade:  55.60
+     Letter Grade: F
+ - Student Record for GoodStudent WhoWorksHard (ID # 888):
+     Exam1:        100
+     Exam2:        100
+     Final Exam:   100
+     Final Grade:  100.00
+     Letter Grade: A
+
+Thank you for using the the KAU Grade Book.
+Good Bye
